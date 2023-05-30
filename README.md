@@ -6,13 +6,17 @@ Developed with html and php.
 
 <b>1) Homepage</b>
 
-![HomePage](https://github.com/oznuryilmazz/val-holding-wordpress-website/blob/main/screenshots/homepage.png)
+![HomePage](https://github.com/oznuryilmazz/old-oznuryilmaz-website/blob/main/screenshots/homepage.png)
 
 <b>2) About us</b>
 
-![About Us Page](https://github.com/oznuryilmazz/val-holding-wordpress-website/blob/main/screenshots/about-us.png)
+![About Us Page](https://github.com/oznuryilmazz/old-oznuryilmaz-website/blob/main/screenshots/about-me.png)
+
+<b>3) Projects</b>
+
+![Projects Page](https://github.com/oznuryilmazz/old-oznuryilmaz-website/blob/main/screenshots/projects.png)
 
 <b>3) Contact</b>
 
-![Contact Page](https://github.com/oznuryilmazz/val-holding-wordpress-website/blob/main/screenshots/contact.png)
+![Contact Page](https://github.com/oznuryilmazz/old-oznuryilmaz-website/blob/main/screenshots/contact.png)
 
