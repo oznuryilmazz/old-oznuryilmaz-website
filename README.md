@@ -16,7 +16,7 @@ Developed with html and php.
 
 ![Projects Page](https://github.com/oznuryilmazz/old-oznuryilmaz-website/blob/main/screenshots/projects.png)
 
-<b>3) Contact</b>
+<b>4) Contact</b>
 
 ![Contact Page](https://github.com/oznuryilmazz/old-oznuryilmaz-website/blob/main/screenshots/contact.png)
 
